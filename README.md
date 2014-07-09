@@ -1,4 +1,6 @@
-numpy-bin
-=========
+NumPy Binary Pack
+=================
 
-NumPy binaries for Heroku Python buildpacks
+This repository is used by Heroku Buildpack in order to download precompiled
+binaries of SciPy.  This repository should be updated regularly with latest
+stable releases of SciPy.
